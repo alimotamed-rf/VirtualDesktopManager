@@ -22,7 +22,7 @@ SQLite is the single source of truth for tracking data. The application reads hi
 
 ### Option 1: Portable Executable
 
-1. Download the Windows executable from the project's Releases page, when available.
+1. Reach out for the .exe file
 2. Run the executable.
 3. The application creates its database and Excel report alongside the executable.
 4. Use the **WORKSPACES** tab to manage virtual desktops and the **HISTORY** tab to review tracked time.

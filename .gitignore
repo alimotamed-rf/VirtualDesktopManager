@@ -1,0 +1,13 @@
+
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.spec
+
+tracker.db
+DesktopTimeTracker.xlsx
+
+.venv/
+venv/
+.env

@@ -1,0 +1,3 @@
+pyvda
+pywin32
+openpyxl
